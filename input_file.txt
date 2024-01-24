@@ -1,0 +1,379 @@
+Poplachy - (361) - 03/06/20 12:26:28
+Název
+Strana 1 © AlViS 3.2 © Spirit - Informaèné systémy a.s.
+A; DGS C PR : Porucha pøedøadníku
+DD1; DGS G P04 : Porucha pøedøadníku
+DD1; DGS F P04 : Porucha pøedøadníku
+DD1; DGS F SP : Porucha pøedøadníku
+DD1; DGS E P06 : Porucha pøedøadníku
+DD1; DGS E P07 : Porucha pøedøadníku
+DD1; DGS A SP : Porucha pøedøadníku
+DD1; DGS D P04 : Porucha pøedøadníku
+D P4.024; Svìtlo G21 : Porucha pøedøadníku
+Sanitky; Svìtlo GX23 : Porucha zdroje
+D P2.002; Svìtlo E24 : Porucha pøedøadníku
+D P6.010; Svìtlo C2 : Porucha pøedøadníku
+D P6.012a; Svìtlo C57 : Porucha pøedøadníku
+D P7.353; Svìtlo E34 : Porucha zdroje
+D P4.002; Svìtlo E22 : Porucha pøedøadníku
+D P2.212; Svìtlo A8 : Porucha pøedøadníku
+D P10.211; Svìtlo C28 : Porucha pøedøadníku
+D S1.307; Svìtlo C11 : Porucha zdroje
+D S2.044; Svìtlo JX9 : Porucha zdroje
+A P5.211; Svìtlo A20 : Porucha zdroje
+A SP.010a; Svìtlo AV8 : Porucha zdroje
+D P7.353; Svìtlo E24 : Porucha zdroje
+D P4.211; Svìtlo D23 : Porucha pøedøadníku
+D SP.051; Svìtlo JA23 : Porucha zdroje
+A P5.204; Svìtlo C20 : Porucha zdroje
+D P2.007; Svìtlo G24 : Porucha zdroje
+D S1.320; Svìtlo D13 : Porucha zdroje
+D P2.x18; Svìtlo C24 : Porucha zdroje
+D P1.307; Svìtlo A24 : Porucha zdroje
+A 1S.004a; Svìtlo AV1 : Porucha zdroje
+D SP.3XX; Svìtlo JA15 : Porucha zdroje
+D SP.380; Svìtlo AB8 : Porucha zdroje
+A SP.001; Svìtlo B3 : Porucha zdroje
+D P2.x18; Svìtlo C23 : Porucha zdroje
+Sanitky; Svìtlo GX28 : Porucha zdroje
+D P4.008; Svìtlo F41 : Porucha pøedøadníku
+D P3.220; Svìtlo B6 : Porucha zdroje
+D P4.318; Svìtlo C21 : Porucha zdroje
+D SP.017; Svìtlo A46 : Porucha zdroje
+D P7.012; Svìtlo C43 : Porucha zdroje
+A P8.002a; Svìtlo B6 : Porucha zdroje
+D P6.012a; Svìtlo C32 : Porucha zdroje
+D P6.chodba; Svìtlo E21 : Porucha pøedøadníku
+A P5.003a; Svìtlo AV47 : Porucha zdroje
+A S2.300; Svìtlo A4 : Porucha zdroje
+D SP.360; Svìtlo J53 : Porucha zdroje
+D P4.339; Svìtlo C10 : Porucha zdroje
+D SP.052; Svìtlo F44 : Porucha pøedøadníku
+D P6.006; Svìtlo A55 : Porucha pøedøadníku
+D S1.019; Svìtlo E45 : Porucha zdroje
+D SP.065; Svìtlo JA37 : Porucha zdroje
+D P1.211; Svìtlo A6 : Porucha pøedøadníku
+A P4.003a; Svìtlo AV41 : Porucha pøedøadníku
+D P4.308; Svìtlo C7 : Porucha zdroje
+D P1.350; Svìtlo D39 : Porucha zdroje
+D S2.357; Svìtlo D26 : Porucha zdroje
+D P3.313; Svìtlo F24 : Porucha zdroje
+D SP.034; Svìtlo D28 : Porucha zdroje
+D SP.051; Svìtlo JA31 : Porucha zdroje
+D P6.028; Svìtlo C15 : Porucha pøedøadníku
+A P2.103; Svìtlo C32 : Porucha pøedøadníku
+D P4.021; Svìtlo G6 : Porucha zdroje
+B P7.200; Svìtlo A6 : Porucha zdroje
+D P6.; Svìtlo G50 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo C22 : Porucha pøedøadníku
+D SP.051; Svìtlo JA27 : Porucha zdroje
+D P6.010; Svìtlo C10 : Porucha zdroje
+Poplachy - (361) - 03/06/20 12:26:28
+Název
+Strana 2 © AlViS 3.2 © Spirit - Informaèné systémy a.s.
+D S1.019; Svìtlo E32 : Porucha zdroje
+D S2.307; Svìtlo A56 : Porucha zdroje
+D P6.312; Svìtlo F25 : Porucha zdroje
+D P9.400; Svìtlo H22 : Porucha zdroje
+Sanitky; Svìtlo GX26 : Porucha zdroje
+D S1.316; Svìtlo D40 : Porucha zdroje
+A P6.305; Svìtlo C40 : Porucha zdroje
+D P4.201; Svìtlo D35 : Porucha pøedøadníku
+D P1.222; Svìtlo D27 : Porucha pøedøadníku
+A P8.002a; Svìtlo B8 : Porucha zdroje
+D PR.305; Svìtlo C15 : Porucha zdroje
+D SP.353; Svìtlo C50 : Porucha pøedøadníku
+D P6.bez c.m.; Svìtlo G33 : Porucha zdroje
+D P3.320; Svìtlo F3 : Porucha zdroje
+A P6.xx0; Svìtlo C28 : Porucha pøedøadníku
+D SP.364b; Svìtlo F12 : Porucha zdroje
+Sanitky; Svìtlo GX8 : Porucha zdroje
+D PR.319; Svìtlo D42 : Porucha zdroje
+D P6.317; Svìtlo F3 : Porucha zdroje
+A P6.xx0; Svìtlo C20 : Porucha zdroje
+D P4.318; Svìtlo C23 : Porucha zdroje
+D P7.012; Svìtlo C45 : Porucha zdroje
+A P7.chodba; Svìtlo B1 : Porucha pøedøadníku
+D P5.211; Svìtlo A7 : Porucha pøedøadníku
+D SP.380; Svìtlo AB6 : Porucha zdroje
+D PR.367; Svìtlo B44 : Porucha zdroje
+BV; Svìtlo LED6 : Porucha zdroje
+D S2.405; Svìtlo A21 : Porucha zdroje
+D PR.351; Svìtlo B41 : Porucha zdroje
+D SP.017; Svìtlo A44 : Porucha pøedøadníku
+A P5.200; Svìtlo C1 : Porucha zdroje
+A P7.bez è.m.; Svìtlo C38 : Porucha pøedøadníku
+A P6.204a; Svìtlo C2 : Porucha zdroje
+D P4.336; Svìtlo C5 : Porucha zdroje
+D SP.353; Svìtlo C18 : Porucha pøedøadníku
+D P4.334; Svìtlo C2 : Porucha zdroje
+D P2.308; Svìtlo A38 : Porucha zdroje
+D PR.350; Svìtlo B27 : Porucha zdroje
+A P5.305; Svìtlo C42 : Porucha zdroje
+A S2.210; Svìtlo B54 : Porucha zdroje
+A P4.003a; Svìtlo AV37 : Porucha zdroje
+B P8.309; Svìtlo A1 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo B17 : Porucha zdroje
+A SP.009; Svìtlo B20 : Porucha zdroje
+D P6.010; Svìtlo C12 : Porucha pøedøadníku
+D PR.350; Svìtlo B19 : Porucha zdroje
+D S1.; Svìtlo F22 : Porucha pøedøadníku
+D P2.300; Svìtlo D28 : Porucha zdroje
+D P3.225; Svìtlo D27 : Porucha zdroje
+A P1.100; Svìtlo C12 : Porucha pøedøadníku
+D P2.211; Svìtlo D26 : Porucha pøedøadníku
+D P4.211; Svìtlo D25 : Porucha pøedøadníku
+D S1.019; Svìtlo E27 : Porucha zdroje
+Sanitky; Svìtlo GX21 : Porucha zdroje
+D SP.31x; Svìtlo E18 : Porucha zdroje
+A P7.bez è.m.; Svìtlo C9 : Porucha zdroje
+D P2.301; Svìtlo D19 : Porucha zdroje
+A P8.315; Svìtlo C30 : Porucha zdroje
+D SP.xxx; Svìtlo E14 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G40 : Porucha zdroje
+D SP.364b; Svìtlo F16 : Porucha zdroje
+D P4.331; Svìtlo D17 : Porucha zdroje
+D S1.309; Svìtlo C17 : Porucha zdroje
+A SP.201a; Svìtlo A9 : Porucha zdroje
+D P7.014; Svìtlo C46 : Porucha zdroje
+D SP.051; Svìtlo JA25 : Porucha pøedøadníku
+D P4.318; Svìtlo C14 : Porucha zdroje
+Poplachy - (361) - 03/06/20 12:26:28
+Název
+Strana 3 © AlViS 3.2 © Spirit - Informaèné systémy a.s.
+D SP.352; Svìtlo F5 : Porucha zdroje
+Sanitky; Svìtlo GX29 : Porucha zdroje
+D PR.350; Svìtlo B32 : Porucha zdroje
+A S1.002; Svìtlo A11 : Porucha pøedøadníku
+D P8.356; Svìtlo A17 : Porucha pøedøadníku
+D PR.359b; Svìtlo D19 : Porucha zdroje
+D S2.047; Svìtlo JX12 : Porucha zdroje
+D SP.051; Svìtlo JA35 : Porucha zdroje
+D SP.052; Svìtlo F40 : Porucha zdroje
+D S1.019; Svìtlo E46 : Porucha zdroje
+D P3.201; Svìtlo C34 : Porucha pøedøadníku
+D P4.314; Svìtlo A22 : Porucha zdroje
+D P2.209; Svìtlo A19 : Porucha zdroje
+A P7.bez è.m.; Svìtlo A12 : Porucha pøedøadníku
+D P7.001; Svìtlo E14 : Porucha pøedøadníku
+D P8.208; Svìtlo A31 : Porucha zdroje
+D PR.351; Svìtlo B39 : Porucha zdroje
+A P5.caj.kuchun; Svìtlo A11 : Porucha zdroje
+A SP.010a; Svìtlo AV11 : Porucha zdroje
+A P8.200a; Svìtlo C13 : Porucha zdroje
+A P7.005a; Svìtlo AV59 : Porucha zdroje
+A P7.005a; Svìtlo AV56 : Porucha zdroje
+D SP.200; Svìtlo C12 : Porucha zdroje
+D S1.019; Svìtlo E44 : Porucha zdroje
+A P7.bez è.m.; Svìtlo A20 : Porucha zdroje
+D S1.; Svìtlo F2 : Porucha zdroje
+D P7.012; Svìtlo C38 : Porucha zdroje
+D P4.305; Svìtlo D3 : Porucha zdroje
+A PR.003a; Svìtlo AV14 : Porucha zdroje
+D P6.012a; Svìtlo C31 : Porucha zdroje
+A S2.007; Svìtlo B15 : Porucha zdroje
+Sanitky; Svìtlo GX15 : Porucha zdroje
+D S1.019; Svìtlo E52 : Porucha zdroje
+D PR.202; Svìtlo D8 : Porucha zdroje
+Sanitky; Svìtlo GX4 : Porucha zdroje
+Sanitky; Svìtlo GX3 : Porucha zdroje
+Sanitky; Svìtlo GX1 : Porucha zdroje
+A P5.206; Svìtlo C26 : Porucha zdroje
+D PR.351; Svìtlo B42 : Porucha zdroje
+Sanitky; Svìtlo GX18 : Porucha zdroje
+Sanitky; Svìtlo GX17 : Porucha zdroje
+D P4.006; Svìtlo F46 : Porucha zdroje
+Sanitky; Svìtlo GX12 : Porucha zdroje
+Sanitky; Svìtlo GX11 : Porucha zdroje
+Sanitky; Svìtlo GX9 : Porucha zdroje
+Sanitky; Svìtlo GX6 : Porucha zdroje
+Sanitky; Svìtlo GX5 : Porucha zdroje
+Sanitky; Svìtlo GX2 : Porucha zdroje
+A 1S.004a; Svìtlo AV2 : Porucha zdroje
+A 1S.004a; Svìtlo AV3 : Porucha zdroje
+Sanitky; Svìtlo GX10 : Porucha zdroje
+D P3.350; Svìtlo B7 : Porucha zdroje
+A P4.003a; Svìtlo AV39 : Porucha zdroje
+A P6.300; Svìtlo B28 : Porucha zdroje
+A PR.207; Svìtlo C26 : Porucha zdroje
+A P7.bez è.m.; Svìtlo A5 : Porucha pøedøadníku
+A P2.003a; Svìtlo AV26 : Porucha zdroje
+A P2.003a; Svìtlo AV25 : Porucha zdroje
+D P8.355; Svìtlo A29 : Porucha pøedøadníku
+A 1S.004a; Svìtlo AV4 : Porucha zdroje
+DD1; DGS H P08 : Porucha zdroje
+A P1.200; Svìtlo C2 : Porucha zdroje
+D P4.003; Svìtlo E13 : Porucha pøedøadníku
+A P5.315; Svìtlo A5 : Porucha zdroje
+A S1.002; Svìtlo A12 : Porucha pøedøadníku
+A P5.307; Svìtlo A29 : Porucha zdroje
+B P8.201; Svìtlo A14 : Porucha pøedøadníku
+Poplachy - (361) - 03/06/20 12:26:28
+Název
+Strana 4 © AlViS 3.2 © Spirit - Informaèné systémy a.s.
+D P6.006; Svìtlo A56 : Porucha pøedøadníku
+DD1; DGS A P04 : Porucha zdroje
+A PR.104; Svìtlo C41 : Porucha pøedøadníku
+DD1; DGS A P05 : Porucha pøedøadníku
+D P6.352a; Svìtlo E17 : Porucha zdroje
+D SP.320; Svìtlo E45 : Porucha zdroje
+D SP.320; Svìtlo E44 : Porucha zdroje
+Sanitky; Svìtlo GX19 : Porucha zdroje
+D SP.xxx; Svìtlo E15 : Porucha zdroje
+D P7.353; Svìtlo E35 : Porucha zdroje
+D P7.353; Svìtlo E25 : Porucha zdroje
+DD1; DGS B SP : Porucha zdroje
+DD1; DGS AB SP : Porucha zdroje
+DD1; DGS C P07 : Porucha zdroje
+A P5.003a; Svìtlo AV43 : Porucha zdroje
+D SP.3XX; Svìtlo JA16 : Porucha zdroje
+D P2.212; Svìtlo A9 : Porucha pøedøadníku
+D SP.364b; Svìtlo F13 : Porucha zdroje
+D SP.364b; Svìtlo F14 : Porucha zdroje
+D SP.364b; Svìtlo F6 : Porucha zdroje
+A P7.bez è.m.; Svìtlo A26 : Porucha pøedøadníku
+DD1; DGS A P06 : Porucha pøedøadníku
+DD1; DGS B P06 : Porucha zdroje
+B P2.300; Svìtlo B9 : Porucha zdroje
+DD1; DGS G S01 : Porucha zdroje
+B P1.303; Svìtlo A35 : Porucha pøedøadníku
+B P1.303; Svìtlo A34 : Porucha pøedøadníku
+A P5.caj.kuchun; Svìtlo A9 : Porucha zdroje
+B P8.200; Svìtlo A5 : Porucha pøedøadníku
+A P1.003a; Svìtlo AV20 : Porucha zdroje
+A P2.312; Svìtlo A2 : Porucha zdroje
+DD1; DGS F P03 : Porucha zdroje
+DD1; DGS C P03 : Porucha pøedøadníku
+A SP.209; Svìtlo A35 : Porucha zdroje
+A PR.002; Svìtlo C54 : Porucha zdroje
+DD1; DGS E SP : Porucha zdroje
+DD1; DGS D SP : Porucha zdroje
+DD1; DGS C SP : Porucha pøedøadníku
+D P2.351; Svìtlo D42 : Porucha zdroje
+B; DGS A P06 : Porucha zdroje
+D P2.351; Svìtlo D37 : Porucha pøedøadníku
+A P2.003a; Svìtlo AV30 : Porucha zdroje
+A P1.003a; Svìtlo AV23 : Porucha zdroje
+A P6.002; Svìtlo B6 : Porucha pøedøadníku
+P B6.102; Svìtlo A47 : Porucha zdroje
+B P4.001; Svìtlo BC12 : Porucha zdroje
+DD1; DGS B P03 : Porucha zdroje
+D P6.352a; Svìtlo E11 : Porucha zdroje
+D P6.352a; Svìtlo E6 : Porucha zdroje
+DD1; DGS D PR : Porucha zdroje
+DD1; DGS B PR : Porucha zdroje
+DD1; DGS G P02 : Porucha zdroje
+D P6.35x; Svìtlo B4 : Porucha zdroje
+A P6.002; Svìtlo B2 : Porucha pøedøadníku
+D P6.352a; Svìtlo E13 : Porucha zdroje
+B P1.001; Svìtlo B8 : Porucha zdroje
+B P8.308; Svìtlo A6 : Porucha pøedøadníku
+B P8.308; Svìtlo A8 : Porucha pøedøadníku
+DD1; DGS D S02 : Porucha zdroje
+DD1; DGS A S02 : Porucha zdroje
+DD1; DGS BC S02 : Porucha zdroje
+B P8.308; Svìtlo A7 : Porucha pøedøadníku
+A PR.001; Svìtlo B11 : Porucha zdroje
+DD1; DGS BE P08 : Porucha zdroje
+D P6.35x; Svìtlo B10 : Porucha zdroje
+D P6.35x; Svìtlo B6 : Porucha zdroje
+D SP.020; Svìtlo A49 : Porucha zdroje
+Poplachy - (361) - 03/06/20 12:26:28
+Název
+Strana 5 © AlViS 3.2 © Spirit - Informaèné systémy a.s.
+D SP.360; Svìtlo J54 : Porucha zdroje
+D P8.350; Svìtlo E49 : Porucha zdroje
+Sanitky; Svìtlo GX16 : Porucha zdroje
+B; DGS B P02 : Porucha zdroje
+DD1; DGS A P01 : Porucha zdroje
+B; DGS A P08 : Porucha pøedøadníku
+DD1; DGS B P01 : Porucha pøedøadníku
+DD1; DGS E P05 : Porucha pøedøadníku
+DD1; DGS C P05 : Porucha pøedøadníku
+DD1; DGS E P01 : Porucha pøedøadníku
+DD1; DGS D S01 : Porucha zdroje
+DD1; DGS F P05 : Porucha zdroje
+DD1; DGS C S01 : Porucha zdroje
+DD1; DGS A P03 : Porucha zdroje
+DD1; DGS D P03 : Porucha zdroje
+A; DGS C P02 : Porucha pøedøadníku
+A; DGS C P06 : Porucha pøedøadníku
+A; DGS B P06 : Porucha pøedøadníku
+A; DGS A Schody : Porucha pøedøadníku
+A; DGS C P07 : Porucha pøedøadníku
+A; DGS A P07 : Porucha pøedøadníku
+A; DGS C P01 : Porucha pøedøadníku
+A; DGS A S1 : Porucha pøedøadníku
+A; DGS B P07 : Porucha pøedøadníku
+DD1; DGS G P06 : Porucha pøedøadníku
+DD1; DGS C P06 : Porucha pøedøadníku
+B SP.002; Svìtlo C62 : Porucha zdroje
+B; DGS A P07 : Porucha zdroje
+DD1; DGS C PR : Porucha zdroje
+D S1.359; Svìtlo G35 : Porucha zdroje
+DD1; DGS E P02 : Porucha pøedøadníku
+B; DGS B P01 : Porucha zdroje
+DD1; DGS F P06 : Porucha zdroje
+DD1; DGS C P02 : Porucha zdroje
+D P10.401; Svìtlo A32 : Porucha zdroje a pøedøadníku
+D S1.005; Svìtlo A20 : Porucha zdroje a pøedøadníku
+DD1; DGS JX SP : Porucha zdroje
+DD1; DGS J SP : Porucha zdroje
+B P7.207; Svìtlo C4 : Porucha pøedøadníku
+B P7.206; Svìtlo C3 : Porucha pøedøadníku
+B P7.312; Svìtlo C2 : Porucha pøedøadníku
+D P3.211; Svìtlo A8 : Porucha pøedøadníku
+D P4.334; Svìtlo C3 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G42 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G41 : Porucha zdroje
+B; DGS B P04 : Porucha zdroje
+DD1; DGS GX SP : Porucha zdroje
+B; DGS A P04 : Porucha pøedøadníku
+DD1; DGS G SP : Porucha pøedøadníku
+DD1; DGS A P08 : Porucha pøedøadníku
+A P5.305; Svìtlo C43 : Porucha zdroje
+A P5.003a; Svìtlo AV48 : Porucha zdroje
+A PR.003a; Svìtlo AV15 : Porucha zdroje
+A P6.305; Svìtlo C41 : Porucha zdroje
+A P6.305a; Svìtlo C42 : Porucha zdroje
+A P1.003a; Svìtlo AV21 : Porucha zdroje
+A P7.005a; Svìtlo AV57 : Porucha zdroje
+A S2.211; Svìtlo B56 : Porucha zdroje
+A S2.210; Svìtlo B55 : Porucha zdroje
+A; DGS B P08 : Porucha zdroje
+A; DGS B PR : Porucha zdroje
+Server 2.np; DGS B SP : Porucha zdroje
+A; DGS B S2 : Porucha zdroje
+A; DGS A SP : Porucha zdroje
+A; DGS C P08 : Porucha zdroje
+A P8.002a; Svìtlo B9 : Porucha zdroje
+A P6.300; Svìtlo B29 : Porucha zdroje
+Poplachy - (361) - 03/06/20 12:26:28
+Název
+Strana 6 © AlViS 3.2 © Spirit - Informaèné systémy a.s.
+A P6.002; Svìtlo B4 : Porucha pøedøadníku
+A P6.002; Svìtlo B3 : Porucha pøedøadníku
+A; DGS B P05 : Porucha pøedøadníku
+A; DGS B P04 : Porucha pøedøadníku
+A; DGS A S2 : Porucha zdroje
+A; DGS C P05 : Porucha zdroje
+A; DGS A P04 : Porucha pøedøadníku
+A; DGS C P04 : Porucha pøedøadníku
+A; DGS C P03 : Porucha pøedøadníku
+A; DGS A P06 : Porucha pøedøadníku
+A; DGS A P05 : Porucha zdroje
+A; DGS A P02 : Porucha zdroje
+B P8.309; Svìtlo A3 : Porucha pøedøadníku
+B P8.309; Svìtlo A2 : Porucha pøedøadníku
+DD1; DGS C P04 : Porucha zdroje
+DD1; DGS C P10 : Porucha pøedøadníku
+DD1; DGS E P04 : Porucha pøedøadníku
+B P5.310; Svìtlo C37 : Porucha zdroje
+DD1; DGS E S01 : Porucha zdroje
+DD1; DGS F S01 : Porucha pøedøadníku
+DD1; DGS BD P02 : Porucha pøedøadníku
+DD1; DGS A P02 : Porucha pøedøadníku
+Pøerušená komunikace s ústøednou EZS 4; DFN C
+Stisknutí tísòového tlaèítka 2001 EZS 03DGD10 grupa B2; DFN - D-SP.016a Tísòové tlaèítko
+Stisknutí tísòového tlaèítka 2006 EZS 03DGD10 grupa B2; DFN - D-SP.007a Tísòové tlaèítko
+Výpadek akumulátoru ústøedny EZS 01GEN; 01DE3.patro - Genetika NN

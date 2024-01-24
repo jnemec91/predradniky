@@ -1,0 +1,202 @@
+A 1S.004a; Svìtlo AV1 : Porucha zdroje
+A 1S.004a; Svìtlo AV2 : Porucha zdroje
+A 1S.004a; Svìtlo AV3 : Porucha zdroje
+A 1S.004a; Svìtlo AV4 : Porucha zdroje
+A P1.003a; Svìtlo AV20 : Porucha zdroje
+A P1.003a; Svìtlo AV21 : Porucha zdroje
+A P1.003a; Svìtlo AV23 : Porucha zdroje
+A P1.200; Svìtlo C2 : Porucha zdroje
+A P2.003a; Svìtlo AV25 : Porucha zdroje
+A P2.003a; Svìtlo AV26 : Porucha zdroje
+A P2.003a; Svìtlo AV30 : Porucha zdroje
+A P2.312; Svìtlo A2 : Porucha zdroje
+A P4.003a; Svìtlo AV37 : Porucha zdroje
+A P4.003a; Svìtlo AV39 : Porucha zdroje
+A P5.003a; Svìtlo AV43 : Porucha zdroje
+A P5.003a; Svìtlo AV47 : Porucha zdroje
+A P5.003a; Svìtlo AV48 : Porucha zdroje
+A P5.200; Svìtlo C1 : Porucha zdroje
+A P5.204; Svìtlo C20 : Porucha zdroje
+A P5.206; Svìtlo C26 : Porucha zdroje
+A P5.211; Svìtlo A20 : Porucha zdroje
+A P5.305; Svìtlo C42 : Porucha zdroje
+A P5.305; Svìtlo C43 : Porucha zdroje
+A P5.307; Svìtlo A29 : Porucha zdroje
+A P5.315; Svìtlo A5 : Porucha zdroje
+A P5.caj.kuchun; Svìtlo A11 : Porucha zdroje
+A P5.caj.kuchun; Svìtlo A9 : Porucha zdroje
+A P6.204a; Svìtlo C2 : Porucha zdroje
+A P6.300; Svìtlo B28 : Porucha zdroje
+A P6.300; Svìtlo B29 : Porucha zdroje
+A P6.305; Svìtlo C40 : Porucha zdroje
+A P6.305; Svìtlo C41 : Porucha zdroje
+A P6.305a; Svìtlo C42 : Porucha zdroje
+A P6.xx0; Svìtlo C20 : Porucha zdroje
+A P7.005a; Svìtlo AV56 : Porucha zdroje
+A P7.005a; Svìtlo AV57 : Porucha zdroje
+A P7.005a; Svìtlo AV59 : Porucha zdroje
+A P7.bez è.m.; Svìtlo A20 : Porucha zdroje
+A P7.bez è.m.; Svìtlo B17 : Porucha zdroje
+A P7.bez è.m.; Svìtlo C9 : Porucha zdroje
+A P8.002a; Svìtlo B6 : Porucha zdroje
+A P8.002a; Svìtlo B8 : Porucha zdroje
+A P8.002a; Svìtlo B9 : Porucha zdroje
+A P8.200a; Svìtlo C13 : Porucha zdroje
+A P8.315; Svìtlo C30 : Porucha zdroje
+A PR.001; Svìtlo B11 : Porucha zdroje
+A PR.002; Svìtlo C54 : Porucha zdroje
+A PR.003a; Svìtlo AV14 : Porucha zdroje
+A PR.003a; Svìtlo AV15 : Porucha zdroje
+A PR.207; Svìtlo C26 : Porucha zdroje
+A S2.007; Svìtlo B15 : Porucha zdroje
+A S2.210; Svìtlo B54 : Porucha zdroje
+A S2.210; Svìtlo B55 : Porucha zdroje
+A S2.211; Svìtlo B56 : Porucha zdroje
+A S2.300; Svìtlo A4 : Porucha zdroje
+A SP.001; Svìtlo B3 : Porucha zdroje
+A SP.009; Svìtlo B20 : Porucha zdroje
+A SP.010a; Svìtlo AV11 : Porucha zdroje
+A SP.010a; Svìtlo AV8 : Porucha zdroje
+A SP.201a; Svìtlo A9 : Porucha zdroje
+A SP.209; Svìtlo A35 : Porucha zdroje
+B P1.001; Svìtlo B8 : Porucha zdroje
+B P2.300; Svìtlo B9 : Porucha zdroje
+B P4.001; Svìtlo BC12 : Porucha zdroje
+B P5.310; Svìtlo C37 : Porucha zdroje
+B P7.200; Svìtlo A6 : Porucha zdroje
+B SP.002; Svìtlo C62 : Porucha zdroje
+BV; Svìtlo LED6 : Porucha zdroje
+D P1.307; Svìtlo A24 : Porucha zdroje
+D P1.350; Svìtlo D39 : Porucha zdroje
+D P10.401; Svìtlo A32 : Porucha zdroje a pøedøadníku
+D P2.007; Svìtlo G24 : Porucha zdroje
+D P2.209; Svìtlo A19 : Porucha zdroje
+D P2.300; Svìtlo D28 : Porucha zdroje
+D P2.301; Svìtlo D19 : Porucha zdroje
+D P2.308; Svìtlo A38 : Porucha zdroje
+D P2.351; Svìtlo D42 : Porucha zdroje
+D P2.x18; Svìtlo C23 : Porucha zdroje
+D P2.x18; Svìtlo C24 : Porucha zdroje
+D P3.220; Svìtlo B6 : Porucha zdroje
+D P3.225; Svìtlo D27 : Porucha zdroje
+D P3.313; Svìtlo F24 : Porucha zdroje
+D P3.320; Svìtlo F3 : Porucha zdroje
+D P3.350; Svìtlo B7 : Porucha zdroje
+D P4.006; Svìtlo F46 : Porucha zdroje
+D P4.021; Svìtlo G6 : Porucha zdroje
+D P4.305; Svìtlo D3 : Porucha zdroje
+D P4.308; Svìtlo C7 : Porucha zdroje
+D P4.314; Svìtlo A22 : Porucha zdroje
+D P4.318; Svìtlo C14 : Porucha zdroje
+D P4.318; Svìtlo C21 : Porucha zdroje
+D P4.318; Svìtlo C23 : Porucha zdroje
+D P4.331; Svìtlo D17 : Porucha zdroje
+D P4.334; Svìtlo C2 : Porucha zdroje
+D P4.334; Svìtlo C3 : Porucha zdroje
+D P4.336; Svìtlo C5 : Porucha zdroje
+D P4.339; Svìtlo C10 : Porucha zdroje
+D P6.010; Svìtlo C10 : Porucha zdroje
+D P6.012a; Svìtlo C31 : Porucha zdroje
+D P6.012a; Svìtlo C32 : Porucha zdroje
+D P6.312; Svìtlo F25 : Porucha zdroje
+D P6.317; Svìtlo F3 : Porucha zdroje
+D P6.352a; Svìtlo E11 : Porucha zdroje
+D P6.352a; Svìtlo E13 : Porucha zdroje
+D P6.352a; Svìtlo E17 : Porucha zdroje
+D P6.352a; Svìtlo E6 : Porucha zdroje
+D P6.35x; Svìtlo B10 : Porucha zdroje
+D P6.35x; Svìtlo B4 : Porucha zdroje
+D P6.35x; Svìtlo B6 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G33 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G40 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G41 : Porucha zdroje
+D P6.bez c.m.; Svìtlo G42 : Porucha zdroje
+D P7.012; Svìtlo C38 : Porucha zdroje
+D P7.012; Svìtlo C43 : Porucha zdroje
+D P7.012; Svìtlo C45 : Porucha zdroje
+D P7.014; Svìtlo C46 : Porucha zdroje
+D P7.353; Svìtlo E24 : Porucha zdroje
+D P7.353; Svìtlo E25 : Porucha zdroje
+D P7.353; Svìtlo E34 : Porucha zdroje
+D P7.353; Svìtlo E35 : Porucha zdroje
+D P8.208; Svìtlo A31 : Porucha zdroje
+D P8.350; Svìtlo E49 : Porucha zdroje
+D P9.400; Svìtlo H22 : Porucha zdroje
+D PR.202; Svìtlo D8 : Porucha zdroje
+D PR.305; Svìtlo C15 : Porucha zdroje
+D PR.319; Svìtlo D42 : Porucha zdroje
+D PR.350; Svìtlo B19 : Porucha zdroje
+D PR.350; Svìtlo B27 : Porucha zdroje
+D PR.350; Svìtlo B32 : Porucha zdroje
+D PR.351; Svìtlo B39 : Porucha zdroje
+D PR.351; Svìtlo B41 : Porucha zdroje
+D PR.351; Svìtlo B42 : Porucha zdroje
+D PR.359b; Svìtlo D19 : Porucha zdroje
+D PR.367; Svìtlo B44 : Porucha zdroje
+D S1.005; Svìtlo A20 : Porucha zdroje a pøedøadníku
+D S1.019; Svìtlo E27 : Porucha zdroje
+D S1.019; Svìtlo E32 : Porucha zdroje
+D S1.019; Svìtlo E44 : Porucha zdroje
+D S1.019; Svìtlo E45 : Porucha zdroje
+D S1.019; Svìtlo E46 : Porucha zdroje
+D S1.019; Svìtlo E52 : Porucha zdroje
+D S1.307; Svìtlo C11 : Porucha zdroje
+D S1.309; Svìtlo C17 : Porucha zdroje
+D S1.316; Svìtlo D40 : Porucha zdroje
+D S1.320; Svìtlo D13 : Porucha zdroje
+D S1.359; Svìtlo G35 : Porucha zdroje
+D S1.; Svìtlo F2 : Porucha zdroje
+D S2.044; Svìtlo JX9 : Porucha zdroje
+D S2.047; Svìtlo JX12 : Porucha zdroje
+D S2.307; Svìtlo A56 : Porucha zdroje
+D S2.357; Svìtlo D26 : Porucha zdroje
+D S2.405; Svìtlo A21 : Porucha zdroje
+D SP.017; Svìtlo A46 : Porucha zdroje
+D SP.020; Svìtlo A49 : Porucha zdroje
+D SP.034; Svìtlo D28 : Porucha zdroje
+D SP.051; Svìtlo JA23 : Porucha zdroje
+D SP.051; Svìtlo JA27 : Porucha zdroje
+D SP.051; Svìtlo JA31 : Porucha zdroje
+D SP.051; Svìtlo JA35 : Porucha zdroje
+D SP.052; Svìtlo F40 : Porucha zdroje
+D SP.065; Svìtlo JA37 : Porucha zdroje
+D SP.200; Svìtlo C12 : Porucha zdroje
+D SP.31x; Svìtlo E18 : Porucha zdroje
+D SP.320; Svìtlo E44 : Porucha zdroje
+D SP.320; Svìtlo E45 : Porucha zdroje
+D SP.352; Svìtlo F5 : Porucha zdroje
+D SP.360; Svìtlo J53 : Porucha zdroje
+D SP.360; Svìtlo J54 : Porucha zdroje
+D SP.364b; Svìtlo F12 : Porucha zdroje
+D SP.364b; Svìtlo F13 : Porucha zdroje
+D SP.364b; Svìtlo F14 : Porucha zdroje
+D SP.364b; Svìtlo F16 : Porucha zdroje
+D SP.364b; Svìtlo F6 : Porucha zdroje
+D SP.380; Svìtlo AB6 : Porucha zdroje
+D SP.380; Svìtlo AB8 : Porucha zdroje
+D SP.3XX; Svìtlo JA15 : Porucha zdroje
+D SP.3XX; Svìtlo JA16 : Porucha zdroje
+D SP.xxx; Svìtlo E14 : Porucha zdroje
+D SP.xxx; Svìtlo E15 : Porucha zdroje
+P B6.102; Svìtlo A47 : Porucha zdroje
+Sanitky; Svìtlo GX1 : Porucha zdroje
+Sanitky; Svìtlo GX10 : Porucha zdroje
+Sanitky; Svìtlo GX11 : Porucha zdroje
+Sanitky; Svìtlo GX12 : Porucha zdroje
+Sanitky; Svìtlo GX15 : Porucha zdroje
+Sanitky; Svìtlo GX16 : Porucha zdroje
+Sanitky; Svìtlo GX17 : Porucha zdroje
+Sanitky; Svìtlo GX18 : Porucha zdroje
+Sanitky; Svìtlo GX19 : Porucha zdroje
+Sanitky; Svìtlo GX2 : Porucha zdroje
+Sanitky; Svìtlo GX21 : Porucha zdroje
+Sanitky; Svìtlo GX23 : Porucha zdroje
+Sanitky; Svìtlo GX26 : Porucha zdroje
+Sanitky; Svìtlo GX28 : Porucha zdroje
+Sanitky; Svìtlo GX29 : Porucha zdroje
+Sanitky; Svìtlo GX3 : Porucha zdroje
+Sanitky; Svìtlo GX4 : Porucha zdroje
+Sanitky; Svìtlo GX5 : Porucha zdroje
+Sanitky; Svìtlo GX6 : Porucha zdroje
+Sanitky; Svìtlo GX8 : Porucha zdroje
+Sanitky; Svìtlo GX9 : Porucha zdroje

@@ -1,0 +1,65 @@
+A P1.100; Svìtlo C12 : Porucha pøedøadníku
+A P2.103; Svìtlo C32 : Porucha pøedøadníku
+A P4.003a; Svìtlo AV41 : Porucha pøedøadníku
+A P6.002; Svìtlo B2 : Porucha pøedøadníku
+A P6.002; Svìtlo B3 : Porucha pøedøadníku
+A P6.002; Svìtlo B4 : Porucha pøedøadníku
+A P6.002; Svìtlo B6 : Porucha pøedøadníku
+A P6.xx0; Svìtlo C28 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo A12 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo A26 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo A5 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo C22 : Porucha pøedøadníku
+A P7.bez è.m.; Svìtlo C38 : Porucha pøedøadníku
+A P7.chodba; Svìtlo B1 : Porucha pøedøadníku
+A PR.104; Svìtlo C41 : Porucha pøedøadníku
+A S1.002; Svìtlo A11 : Porucha pøedøadníku
+A S1.002; Svìtlo A12 : Porucha pøedøadníku
+B P1.303; Svìtlo A34 : Porucha pøedøadníku
+B P1.303; Svìtlo A35 : Porucha pøedøadníku
+B P7.206; Svìtlo C3 : Porucha pøedøadníku
+B P7.207; Svìtlo C4 : Porucha pøedøadníku
+B P7.312; Svìtlo C2 : Porucha pøedøadníku
+B P8.200; Svìtlo A5 : Porucha pøedøadníku
+B P8.201; Svìtlo A14 : Porucha pøedøadníku
+B P8.308; Svìtlo A6 : Porucha pøedøadníku
+B P8.308; Svìtlo A7 : Porucha pøedøadníku
+B P8.308; Svìtlo A8 : Porucha pøedøadníku
+B P8.309; Svìtlo A1 : Porucha pøedøadníku
+B P8.309; Svìtlo A2 : Porucha pøedøadníku
+B P8.309; Svìtlo A3 : Porucha pøedøadníku
+D P1.211; Svìtlo A6 : Porucha pøedøadníku
+D P1.222; Svìtlo D27 : Porucha pøedøadníku
+D P10.211; Svìtlo C28 : Porucha pøedøadníku
+D P2.002; Svìtlo E24 : Porucha pøedøadníku
+D P2.211; Svìtlo D26 : Porucha pøedøadníku
+D P2.212; Svìtlo A8 : Porucha pøedøadníku
+D P2.212; Svìtlo A9 : Porucha pøedøadníku
+D P2.351; Svìtlo D37 : Porucha pøedøadníku
+D P3.201; Svìtlo C34 : Porucha pøedøadníku
+D P3.211; Svìtlo A8 : Porucha pøedøadníku
+D P4.002; Svìtlo E22 : Porucha pøedøadníku
+D P4.003; Svìtlo E13 : Porucha pøedøadníku
+D P4.008; Svìtlo F41 : Porucha pøedøadníku
+D P4.024; Svìtlo G21 : Porucha pøedøadníku
+D P4.201; Svìtlo D35 : Porucha pøedøadníku
+D P4.211; Svìtlo D23 : Porucha pøedøadníku
+D P4.211; Svìtlo D25 : Porucha pøedøadníku
+D P5.211; Svìtlo A7 : Porucha pøedøadníku
+D P6.006; Svìtlo A55 : Porucha pøedøadníku
+D P6.006; Svìtlo A56 : Porucha pøedøadníku
+D P6.010; Svìtlo C12 : Porucha pøedøadníku
+D P6.010; Svìtlo C2 : Porucha pøedøadníku
+D P6.012a; Svìtlo C57 : Porucha pøedøadníku
+D P6.028; Svìtlo C15 : Porucha pøedøadníku
+D P6.; Svìtlo G50 : Porucha pøedøadníku
+D P6.chodba; Svìtlo E21 : Porucha pøedøadníku
+D P7.001; Svìtlo E14 : Porucha pøedøadníku
+D P8.355; Svìtlo A29 : Porucha pøedøadníku
+D P8.356; Svìtlo A17 : Porucha pøedøadníku
+D S1.; Svìtlo F22 : Porucha pøedøadníku
+D SP.017; Svìtlo A44 : Porucha pøedøadníku
+D SP.051; Svìtlo JA25 : Porucha pøedøadníku
+D SP.052; Svìtlo F44 : Porucha pøedøadníku
+D SP.353; Svìtlo C18 : Porucha pøedøadníku
+D SP.353; Svìtlo C50 : Porucha pøedøadníku
